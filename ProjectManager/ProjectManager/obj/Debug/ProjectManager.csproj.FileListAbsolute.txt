@@ -1,0 +1,17 @@
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.LoginControl.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.MainPage.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.SideBarControl.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ListProjectControl.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ListProjectItemControl.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.CreateAndEditTaskControl.resources
+C:\Users\Kuba\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ControlPatternForContent.resources
